@@ -1,0 +1,27 @@
+{
+  "name": "Bluestock Theme",
+  "dataColors": [
+    "#5B4FCF",
+    "#0D1B2A",
+    "#7B6FE8",
+    "#3D3580",
+    "#A99FF0",
+    "#1A1A2E",
+    "#FF6B35",
+    "#2EC4B6",
+    "#E94560",
+    "#16213E"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#0D1B2A",
+  "tableAccent": "#5B4FCF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [{ "value": "Segoe UI" }],
+        "fontSize": [{ "value": 11 }],
+        "fontColor": [{ "value": "#0D1B2A" }]
+      }
+    }
+  }
+}

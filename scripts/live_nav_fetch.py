@@ -1,3 +1,16 @@
+"""
+live_nav_fetch.py
+-----------------
+Fetches live NAV data from mfapi.in REST API
+for 6 key mutual fund schemes.
+Saves raw CSVs to data/raw/
+
+Usage: python scripts/live_nav_fetch.py
+Author: Sumeet Wagh | Bluestock Fintech | June 2026
+"""
+
+
+
 import requests
 import pandas as pd
 from pathlib import Path

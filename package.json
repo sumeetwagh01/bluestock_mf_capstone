@@ -1,0 +1,28 @@
+{
+  "name": "bluestock_mf_capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumeetwagh01/bluestock_mf_capstone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sumeetwagh01/bluestock_mf_capstone/issues"
+  },
+  "homepage": "https://github.com/sumeetwagh01/bluestock_mf_capstone#readme",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-icons": "^5.6.0",
+    "sharp": "^0.35.0"
+  }
+}
